@@ -225,9 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Created by [@yourusername](https://github.com/yourusername)
+Created by [@Sh8ubham](https://github.com/Sh8ubham)
 
-Project Link: [https://github.com/yourusername/realtime-chatroom](https://github.com/yourusername/realtime-chatroom)
+Project Link: (https://github.com/Sh8ubham/realtime-chatroom)
 
 ## 🙏 Acknowledgments
 
